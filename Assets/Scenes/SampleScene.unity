@@ -472,7 +472,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0, g: 0, b: 0, a: 0.28235295}
-  m_EffectDistance: {x: 14, y: 12}
+  m_EffectDistance: {x: 12, y: -10}
   m_UseGraphicAlpha: 1
 --- !u!114 &698168059
 MonoBehaviour:
@@ -517,7 +517,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 698168060}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 698168062}
+        m_TargetAssemblyTypeName: AnswerScript, Assembly-CSharp
+        m_MethodName: Answer
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &698168060
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -531,7 +543,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.5566038, g: 0.5566038, b: 0.5566038, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -716,7 +728,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0, g: 0, b: 0, a: 0.28235295}
-  m_EffectDistance: {x: 14, y: 12}
+  m_EffectDistance: {x: 12, y: -10}
   m_UseGraphicAlpha: 1
 --- !u!114 &799842598
 MonoBehaviour:
@@ -761,7 +773,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 799842599}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 799842601}
+        m_TargetAssemblyTypeName: AnswerScript, Assembly-CSharp
+        m_MethodName: Answer
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &799842599
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -775,7 +799,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.5566038, g: 0.5566038, b: 0.5566038, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -947,7 +971,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0, g: 0, b: 0, a: 0.28235295}
-  m_EffectDistance: {x: 14, y: 12}
+  m_EffectDistance: {x: 12, y: -10}
   m_UseGraphicAlpha: 1
 --- !u!114 &1023459430
 MonoBehaviour:
@@ -992,7 +1016,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1023459431}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1023459433}
+        m_TargetAssemblyTypeName: AnswerScript, Assembly-CSharp
+        m_MethodName: Answer
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1023459431
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1006,7 +1042,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.5566038, g: 0.5566038, b: 0.5566038, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1167,7 +1203,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0, g: 0, b: 0, a: 0.28235295}
-  m_EffectDistance: {x: 14, y: 12}
+  m_EffectDistance: {x: 12, y: -10}
   m_UseGraphicAlpha: 1
 --- !u!114 &1551654723
 MonoBehaviour:
@@ -1212,7 +1248,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1551654724}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1551654726}
+        m_TargetAssemblyTypeName: AnswerScript, Assembly-CSharp
+        m_MethodName: Answer
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1551654724
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1226,7 +1274,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.5566038, g: 0.5566038, b: 0.5566038, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1403,7 +1451,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -1540, y: -370}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1612573692
 MonoBehaviour:
@@ -1418,7 +1466,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0, g: 0, b: 0, a: 0.28235295}
-  m_EffectDistance: {x: 14, y: 12}
+  m_EffectDistance: {x: 12, y: -10}
   m_UseGraphicAlpha: 1
 --- !u!114 &1612573693
 MonoBehaviour:
@@ -1442,10 +1490,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 50
+    m_FontSize: 14
     m_FontStyle: 1
     m_BestFit: 1
-    m_MinSize: 5
+    m_MinSize: 10
     m_MaxSize: 50
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -1491,7 +1539,77 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 01792cdcf4016f04e941bad77cb4f17e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  QnA: []
+  QnA:
+  - Question: "Min\xE4 vuonna ensimm\xE4iset ECDL-tutkinnot suoritettiin?"
+    Answers:
+    - 1990
+    - 2002
+    - 1996
+    - 2016
+    CorrectAnswer: 3
+  - Question: Milloin ECDL tuli suomeen)
+    Answers:
+    - 2008
+    - 2006
+    - 2012
+    - 1999
+    CorrectAnswer: 2
+  - Question: "Monessa maassa tutkinnot on k\xE4yt\xF6ss\xE4?"
+    Answers:
+    - 50+
+    - 200+
+    - 100+
+    - 150+
+    CorrectAnswer: 4
+  - Question: "Monella kielell\xE4 tutkinnot on mahdollista suorittaa?"
+    Answers:
+    - 10
+    - 20
+    - 40
+    - 30
+    CorrectAnswer: 3
+  - Question: Monta tutkinnonsuorittanutta?
+    Answers:
+    - Alle 10miljoonaa
+    - Yli 14miljoonaa
+    - Alle 5miljoonaa
+    - Yli 25miljoonaa
+    CorrectAnswer: 2
+  - Question: Monta testikeskusta maailmanlaajuisesti?
+    Answers:
+    - 24000
+    - 20000
+    - 5500
+    - 12000
+    CorrectAnswer: 1
+  - Question: "Monessa maassa tutkinnot on k\xE4yt\xF6ss\xE4?"
+    Answers:
+    - 50+
+    - 200+
+    - 100+
+    - 150+
+    CorrectAnswer: 4
+  - Question: "Monessa maassa tutkinnot on k\xE4yt\xF6ss\xE4?"
+    Answers:
+    - 50+
+    - 200+
+    - 100+
+    - 150+
+    CorrectAnswer: 4
+  - Question: "Monessa maassa tutkinnot on k\xE4yt\xF6ss\xE4?"
+    Answers:
+    - 50+
+    - 200+
+    - 100+
+    - 150+
+    CorrectAnswer: 4
+  - Question: "Monessa maassa tutkinnot on k\xE4yt\xF6ss\xE4?"
+    Answers:
+    - 50+
+    - 200+
+    - 100+
+    - 150+
+    CorrectAnswer: 4
   options:
   - {fileID: 1023459427}
   - {fileID: 799842595}
